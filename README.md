@@ -1,7 +1,11 @@
 ## sushma Nalla
+
 A sample wordcount eample pipeline using apache beam Java SDK
+
 Commands for this project
+
 java --version
+
 mvn archetype:generate `
  -D archetypeGroupId=org.apache.beam `
  -D archetypeArtifactId=beam-sdks-java-maven-archetypes-examples `
